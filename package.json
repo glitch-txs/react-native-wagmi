@@ -17,8 +17,6 @@
     "@walletconnect/utils": "^2.10.2",
     "expo": "~49.0.13",
     "expo-status-bar": "~1.6.0",
-    "install": "^0.13.0",
-    "npm": "^10.2.0",
     "react": "18.2.0",
     "react-native": "0.72.5",
     "react-native-get-random-values": "^1.9.0",
